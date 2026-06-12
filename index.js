@@ -92,7 +92,7 @@ function createBot() {
   try {
     newBot = mineflayer.createBot({
       host: itlowz1.aternos.me,
-      port: serverPort,
+      port: 54712,
       username: fatma,
       version: 1.16.5,
       auth: 'offline',
